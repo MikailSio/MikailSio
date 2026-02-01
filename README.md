@@ -14,7 +14,6 @@
 
 ---
 
-## 🚀 Featured Projects
 ### 🚀 Projects & Work
 
 * **🔤 Vocabulary Learning Platform** – A personalized word retention and spaced repetition system for language learners.
