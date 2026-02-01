@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mikail S.
 
 🎓 Electrical & Electronics Engineer  
-🤖 AI • Data Science • Automation • Web  
+🤖 AI • Data Science • Software Automation • Web  
 🌍 Based in Türkiye
 
 ---
