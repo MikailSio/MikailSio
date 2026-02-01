@@ -17,7 +17,7 @@
 ### 🚀 Projects & Work
 
 * **🎓 ABCtoHero** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency.
-* **(Under Development)**👉: https://abctohero.com
+* **(Under Development)** 👉: https://abctohero.com
 
 * **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
   
