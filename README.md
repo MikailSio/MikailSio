@@ -7,10 +7,11 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, C#, JavaScript
-- **AI / Data:** Pandas, Scikit-learn, NLP
-- **Web:** HTML, CSS, Netlify, Cloudflare
-- **Tools:** Git, GitHub, Linux basics
+- **Languages:** Python, C#, JavaScript (ES6+)
+- **AI / Data:** Pandas, Scikit-learn, NLP, Web Scraping (Selenium/BeautifulSoup)
+- **Web:** HTML5, CSS3, Nginx (Reverse Proxy)
+- **Infrastructure & Deployment** Hetzner Cloud VPS, Linux (Ubuntu), Cloudflare DNS
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
