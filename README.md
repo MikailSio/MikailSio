@@ -17,9 +17,9 @@
 
 ### 🚀 Projects & Work
 
-* **🎓 [ABCtoHero](https://abctohero.com)** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency. **(Under Development)**
-* **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
 * **🌐 [Personal Website](https://mikailsarpkaya.com)** – Hosted on a **Hetzner Cloud VPS** (Ubuntu Linux) with **Nginx** and **Cloudflare** for optimized performance and security.
+* **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
+* **🎓 [ABCtoHero](https://abctohero.com)** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency. **(Under Development)**
 
 ---
 
