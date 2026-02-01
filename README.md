@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, C#, JavaScript (ES6+)
+- **Languages:** C, C++, C#, Python JavaScript (ES6+)
 - **AI / Data:** Pandas, Scikit-learn, NLP, Web Scraping (Selenium/BeautifulSoup)
 - **Web:** HTML5, CSS3, Nginx (Reverse Proxy)
 - **Infrastructure & Deployment** Hetzner Cloud VPS, Linux (Ubuntu), Cloudflare DNS
