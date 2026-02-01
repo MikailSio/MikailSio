@@ -15,9 +15,11 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔤 **Vocabulary Learning Platform** – Personalized word retention and spaced repetition system.
-- 📊 **Web Scraping & Data Analysis** – End-to-end data pipelines for processing IMDb-style datasets.
-- 🌐 **Personal Website** - Self-hosted on Hetzner Cloud VPS (Ubuntu Linux) using Nginx as a reverse proxy and Cloudflare for DNS & security.
+### 🚀 Projects & Work
+
+* **🔤 Vocabulary Learning Platform** – A personalized word retention and spaced repetition system for language learners.
+* **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
+* **🌐 Personal Website** – Hosted on a **Hetzner Cloud VPS** (Ubuntu Linux) with **Nginx** as a reverse proxy and **Cloudflare** for DNS management and security.
 
 👉 Visit my website: https://mikailsarpkaya.com
 
