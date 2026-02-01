@@ -18,7 +18,7 @@
 ### 🚀 Projects & Work
 
 * **🌐 [Personal Website](https://mikailsarpkaya.com)** – Hosted on a **Hetzner Cloud VPS** (Ubuntu Linux) with **Nginx** and **Cloudflare** for optimized performance and security.
-* **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
+* **📊 Web Scraping & Data Analysis** – Developed an automated system to scrape, clean, and analyze large-scale cinema datasets. Built end-to-end pipelines that transform raw IMDb data into actionable insights and trend visualizations.
 * **🎓 [ABCtoHero](https://abctohero.com)** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency. **(Under Development)**
 
 --- 
