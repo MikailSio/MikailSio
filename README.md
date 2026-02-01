@@ -17,12 +17,9 @@
 
 ### 🚀 Projects & Work
 
-* **🎓 ABCtoHero** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency.
-* **(Under Development)** 👉: https://abctohero.com
-
+* **🎓 [ABCtoHero](https://abctohero.com)** – Your personal journey to English mastery; bridging the gap between basic vocabulary and native-like fluency. **(Under Development)**
 * **📊 Web Scraping & Data Analysis** – End-to-end data pipelines for processing and analyzing IMDb-style datasets.
-  
-* **🌐 Personal Website** – Hosted on a **Hetzner Cloud VPS** (Ubuntu Linux) with **Nginx** as a reverse proxy and **Cloudflare** for DNS management and security.
+* **🌐 Personal Website** – Hosted on a **Hetzner Cloud VPS** (Ubuntu Linux) with **Nginx** and **Cloudflare** for optimized performance and security.
 
 👉 Visit my website: https://mikailsarpkaya.com
 
