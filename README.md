@@ -26,8 +26,8 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikailSio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailSio&layout=compact&langs_count=7&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MikailSio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="MikailSio's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailSio&layout=compact&langs_count=7&theme=radical" alt="MikailSio's Top Languages" height="180" />
 </p>
 
 --- 
