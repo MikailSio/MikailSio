@@ -17,7 +17,7 @@
 ## 🚀 Featured Projects
 - 🔤 **Vocabulary Learning Platform** – Personalized word repetition system
 - 📊 **Web Scraping & Data Analysis** – IMDb-style data pipelines
-- 🌐 **Personal Website**Hosted on a Hetzner Cloud VPS (Ubuntu Linux) with Nginx & Cloudflare.
+- 🌐 **Personal Website** - Hosted on a Hetzner Cloud VPS (Ubuntu Linux) with Nginx & Cloudflare.
 
 👉 Visit my website: https://mikailsarpkaya.com
 
